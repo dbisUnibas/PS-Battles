@@ -14,3 +14,17 @@ On Mac, there is no ```sha256sum``` command.
 
 ## Windows
 We do not provide a download script for windows, you can use your preferred scripting language and download tool to download images using the links in the provided .tsv-files.
+
+# Bibtex
+```
+@article{heller2018psBattles,
+  author        = {Silvan Heller and Luca Rossetto and Heiko Schuldt},
+  title         = {{The PS-Battles Dataset -- an Image Collection for Image Manipulation Detection}},
+  journal       = {CoRR},
+  volume        = {abs/1804.04866},
+  year          = {2018},
+  url           = {http://arxiv.org/abs/1804.04866},
+  archivePrefix = {arXiv},
+  eprint        = {1804.04866}
+}
+```
