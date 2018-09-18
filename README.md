@@ -1,5 +1,5 @@
 # PS-Battles
-Repository of the PS-Battles dataset, an image collection for image manipulation detection.
+Repository of the [PS-Battles dataset, an image collection for image manipulation detection](https://arxiv.org/abs/1804.04866).
 
 # Download instructions
 
